@@ -20,27 +20,20 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="hero">
   <img src="assets/images/profile.png" alt="[YOUR NAME]" class="profile-photo">
-  <h1>[YOUR NAME]</h1>
-  <p><strong>[YOUR JOB TITLE]</strong></p>
-  <p><em>[YOUR TAGLINE — e.g., Turning spatial data into insights | GIS | Remote Sensing | Python]</em></p>
+  <h1>Rajat Rao</h1>
+  <p><strong>Geospatial Analyst | Environment Consultant</strong></p>
+  <p><em>Exploring social and environmental complexities, one spatial curiosity at a time.</em></p>
 </div>
+<br>
 
----
 
-## About Me
 
 <div class="about-section" markdown>
 <div class="about-text" markdown>
-
-[Replace this paragraph with your own bio. Write 3–4 sentences covering: your background and
-what you specialize in, the kinds of problems you work on, the tools and methods you use,
-and what you are currently looking for. Example below:]
-
-I am a geospatial data scientist with a background in remote sensing and machine learning.
-I work on extracting actionable insights from satellite imagery and large spatial datasets
-using Python, Google Earth Engine, and open-source GIS tools. I am passionate about applying
-GeoAI techniques to real-world challenges in land use mapping, climate monitoring, and urban
-planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TARGET LOCATION].
+# About
+---
+<br>
+I am a geospatial analyst with a keen interest in understanding the complex relationships between people, places, and the environment. In my previous work, I managed large geospatial datasets and conducted critical analyses of India's high-altitude ecosystems. I use GIS, remote sensing, Python, and R to explore environmental patterns, investigate geographical questions, and uncover stories hidden within spatial data. I am particularly drawn to understanding landscapes, river systems, terrain, and glaciers. For me, every map is an opportunity to ask questions about a place and encourage space-based thinking in people, which I believe is an essential first step in resolving any issue.
 
 </div>
 
@@ -53,7 +46,7 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/rajat-CV.pdf){ .md-button }
 
 
 ---
@@ -62,55 +55,57 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 <div class="grid cards" markdown>
 
--   :material-layers:{ .lg .middle } **GIS & Remote Sensing**
+-   :material-map-search:{ .lg .middle } **GIS & Spatial Analysis**
 
     ---
 
-    - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
-    - Multispectral and SAR image analysis
-    - Cloud Native Geospatial (COG, STAC, Zarr)
+    - QGIS, ArcGIS, TerrSet
+    - Vector and raster analysis
+    - Geoprocessing and spatial data integration
+    - Terrain, hydrological and landscape analysis
 
--   :material-code-braces:{ .lg .middle } **Programming**
-
-    ---
-
-    - Python — GeoPandas, NumPy, Pandas, Matplotlib
-    - R — sf, terra, ggplot2
-    - JavaScript — Leaflet, MapLibre GL
-    - SQL, PostgreSQL + PostGIS
-
--   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
+-   :material-code-braces:{ .lg .middle } **Programming & Data Processing**
 
     ---
 
-    - Supervised classification — Random Forest, XGBoost
-    - Deep learning for image segmentation — U-Net, SAM
-    - scikit-learn, PyTorch, TensorFlow
-    - Object detection in satellite imagery
+    - Python — Pandas, NumPy and PyMuPDF
+    - R — terra, usdm, tidyverse, camtrapR and sf
+    - Data extraction, cleaning and transformation
 
--   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
-    ---
-
-    - Leaflet.js, Folium, MapLibre GL JS
-    - Cloud storage — AWS S3, Google Cloud Storage
-    - Data formats — GeoTIFF, GeoParquet, NetCDF
-    - Streamlit for data-driven web apps
-
--   :material-database:{ .lg .middle } **Data & Cloud**
+-   :material-satellite-variant:{ .lg .middle } **Remote Sensing & Environmental Analysis**
 
     ---
 
-    - PostgreSQL + PostGIS
-    - Cloud storage: AWS S3, Google Cloud Storage
-    - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+    - InVEST — Habitat Quality Modelling
+    - DEM analysis and Landsat Image correction
+    - River systems, glaciers and high-altitude ecosystems
 
--   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
+-   :material-map-legend:{ .lg .middle } **Cartography & Data Visualisation**
 
-    - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    ---
+
+    - Spatial data visualisation and thematic cartography
+    - Scientific map design and layout
+    - Geographical data storytelling
+
+
+-   :material-file-document-edit-outline:{ .lg .middle } **Scientific Writing & Research Communication**
+
+    ---
+
+    - Scientific paper and technical report writing
+    - Grant proposals and funding applications
+    - Research synthesis and documentation
+    - Scientific and environmental article writing
+
+-   :material-clipboard-list-outline:{ .lg .middle } **Fieldwork & Geographical Surveys**
+    
+    ---
+
+    - Field data collection and documentation
+    - Ground-truthing and spatial verification
+    - Landscape observation, assessment and survey
 </div>
 
 
@@ -118,5 +113,5 @@ planning. I am currently seeking opportunities in [YOUR TARGET ROLE] in [YOUR TA
 
 ## Connect
 
-[GitHub](https://github.com/[YOUR-GITHUB-USERNAME]){ .md-button }
-[LinkedIn](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]){ .md-button }
+[GitHub](https://github.com/cosmicfudge){ .md-button }
+[LinkedIn](https://www.linkedin.com/in/cosmicfudge){ .md-button }
