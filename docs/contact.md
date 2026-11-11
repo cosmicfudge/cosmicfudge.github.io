@@ -22,7 +22,7 @@ Feel free to get in touch through the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [reachrajatrao@gmail.com](mailto:[reachrajatrao@gmail.com]) |
+| :material-email: **Email** | [reachrajatrao@gmail.com](mailto:reachrajatrao@gmail.com) |
 | :fontawesome-brands-github: **GitHub** | [github.com/cosmicfudge](https://github.com/cosmicfudge) |
 | :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/cosmicfudge](https://linkedin.com/in/cosmicfudge) |
 

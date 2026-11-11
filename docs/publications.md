@@ -14,7 +14,7 @@ hide:
 
 ---
 
-## Conferences & Workshops
+## Conferences 
 
 1. Attendee (2026). *FOSS4G Asia*.
 
