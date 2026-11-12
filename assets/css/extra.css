@@ -12,7 +12,16 @@
 .hero {
   text-align: center;
   padding: 1rem 1rem 1.25rem 1rem;
-  background: linear-gradient(135deg, #e8f4f8 0%, #f0f7ff 50%, #e8f0fe 100%);
+   background:
+        linear-gradient(
+            rgba(245, 247, 242, 0.65),
+            rgba(245, 247, 242, 0.65)
+        ),
+        url("../images/bmc-path.png");
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
   border-radius: 8px;
 }
 
@@ -143,12 +152,52 @@
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
+/* Project cards — dark mode */
+
+[data-md-color-scheme="slate"] .project-card {
+    background-color: #2b303b;
+    border-color: #454b57;
+    color: #e0e3e8;
+}
+
+[data-md-color-scheme="slate"] .project-card h2,
+[data-md-color-scheme="slate"] .project-card h3,
+[data-md-color-scheme="slate"] .project-card h4,
+[data-md-color-scheme="slate"] .project-card strong {
+    color: #f0f1f3;
+}
+
+[data-md-color-scheme="slate"] .project-card a {
+    color: #90b8e8;
+}
+
+[data-md-color-scheme="slate"] .project-card:hover {
+    background-color: #343b48;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
+}
+
 .project-card img {
   width: 100%;
   height: 180px;
   object-fit: cover;
   border-radius: 4px;
   margin-bottom: 0.75rem;
+}
+
+/* Skills cards — dark mode */
+
+[data-md-color-scheme="slate"] .md-typeset .grid.cards > ul > li {
+    background-color: #2b303b;
+    border-color: #454b57;
+    color: #e0e3e8;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .grid.cards > ul > li strong {
+    color: #f0f1f3;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .grid.cards > ul > li hr {
+    border-color: #454b57;
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
@@ -159,4 +208,77 @@
     font-size: 1.2rem;
     font-weight: 200;
     letter-spacing: 1.2px;
+}
+
+/* ============================================================
+   HERO SECTION — DARK MODE TEXT CONTRAST
+   Keep text readable over the light topographic map background
+   ============================================================ */
+
+[data-md-color-scheme="slate"] .hero {
+    color: #263238;
+}
+
+[data-md-color-scheme="slate"] .hero h1 {
+    color: #263238;
+}
+
+[data-md-color-scheme="slate"] .hero p {
+    color: #45545c;
+}
+
+[data-md-color-scheme="slate"] .hero strong {
+    color: #263238;
+}
+
+[data-md-color-scheme="slate"] .hero em {
+    color: #45545c;
+}
+
+/* ============================================================
+   CONTACT CARDS — MATCH PROJECT CARDS
+   ============================================================ */
+
+.md-typeset .contact-grid > ul > li {
+    background-color: #f0f7ff;
+    border: 1px solid #dce6f0;
+    border-radius: 10px;
+    padding: 1.2rem;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.md-typeset .contact-grid > ul > li:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.contact-grid .lg {
+    font-size: 1.8rem;
+    margin-right: 0.4rem;
+}
+
+.contact-grid a {
+    font-weight: 600;
+    text-decoration: none;
+}
+
+/* Dark mode */
+
+[data-md-color-scheme="slate"] .md-typeset .contact-grid > ul > li {
+    background-color: #2b303b;
+    border-color: #454b57;
+    color: #e0e3e8;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .contact-grid > ul > li strong {
+    color: #f0f1f3;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .contact-grid > ul > li a {
+    color: #90b8e8;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .contact-grid > ul > li:hover {
+    background-color: #343b48;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
 }
