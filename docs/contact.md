@@ -15,17 +15,37 @@ CHECKLIST FOR THIS PAGE:
 
 # Contact
 
-I am open to collaborations, discussions or new professional opportunities.
-Feel free to get in touch through the channels below.
-
+###I welcome opportunities for collaboration, professional exchange and discussions around cartography, geospatial science and environmental research. If you have a project in mind, would like to discuss a mapping idea, or are interested in exploring potential collaborations, I'd be happy to connect. Feel free to reach out.###
 ---
 
-| | |
-|---|---|
-| :material-email: **Email** | [reachrajatrao@gmail.com](mailto:reachrajatrao@gmail.com) |
-| :fontawesome-brands-github: **GitHub** | [github.com/cosmicfudge](https://github.com/cosmicfudge) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/cosmicfudge](https://linkedin.com/in/cosmicfudge) |
+<div class="grid cards contact-grid" markdown>
+
+-   :material-email-outline:{ .lg .middle } **Email**
+
+    ---
+
+    For professional enquiries and collaborations.
+
+    [reachrajatrao@gmail.com](mailto:reachrajatrao@gmail.com)
+
+-   :fontawesome-brands-github:{ .lg .middle } **GitHub**
+
+    ---
+
+    Explore my geospatial projects and repositories.
+
+    [github.com/cosmicfudge](https://github.com/cosmicfudge)
+
+-   :fontawesome-brands-linkedin:{ .lg .middle } **LinkedIn**
+
+    ---
+
+    Connect with me professionally.
+
+    [linkedin.com/in/cosmicfudge](https://linkedin.com/in/cosmicfudge)
+
+</div>
 
 
----
+
 
