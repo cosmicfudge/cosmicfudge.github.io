@@ -7,8 +7,8 @@
 # Edit all lines marked [YOUR ...] to customize your site
 # ============================================================
 
-site_name: "Rajat - Geospatial Portfolio"
-site_description: "Portfolio of Rajat — GIS, Remote Sensing, and Spatial Data Science"
+site_name: "Bhūpaṭa"
+site_description: "Geospatial Science, Cartography and Environmental Research"
 site_author: "Rajat Rao"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
 #site_url: "https://your-username.github.io/your-repo-name"
@@ -19,21 +19,21 @@ theme:
   # Browse icons at https://squidfunk.github.io/mkdocs-material/reference/icons-emojis/
   # and replace "material/earth" with any "material/..." icon name you prefer.
   icon:
-    logo: material/earth
+    logo: material/map-legend
   palette:
     # To change the color, edit the 'primary' and 'accent' values below for both
     # the 'default' (light) and 'slate' (dark) schemes.
     # Available colors: red, pink, purple, deep purple, indigo, blue, light blue,
     # cyan, teal, green, light green, lime, yellow, amber, orange, deep orange
     - scheme: default            # Light mode
-      primary: indigo
-      accent: blue
+      primary: brown
+      accent: deep orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate              # Dark mode
-      primary: indigo
-      accent: blue
+      primary: brown
+      accent: deep orange
       toggle:
         icon: material/brightness-4
         name: Switch to light mode

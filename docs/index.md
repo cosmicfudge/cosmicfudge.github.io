@@ -28,8 +28,7 @@ CHECKLIST FOR THIS PAGE:
 
 
 
-# About
-
+## About
 <div class="about-section" markdown>
 
 <div class="about-text" markdown>
@@ -38,23 +37,16 @@ I am a geospatial analyst with a keen interest in understanding the complex rela
 
 </div>
 
-<div style="display: inline-block; width: 35%; vertical-align: middle;">
-
-  <iframe
-      width="100%"
-      height="190"
-      src="https://www.youtube.com/embed/ip58-lPwOD8"
-      title="About Me - YouTube Video"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-      referrerpolicy="strict-origin-when-cross-origin"
-      allowfullscreen>
-  </iframe>
-
-  <p style="text-align: center; font-size: 0.7rem; color: grey; font-style: italic; margin-top: 4px;">
-      A short film I made based on my M. Sc. thesis. It spatially maps 20 years of rampant development along the IT belt in Bengaluru.
-  </p>
-
+<div class="video-container">
+<div class="video-wrapper">
+<iframe
+src="https://www.youtube.com/embed/ip58-lPwOD8"
+title="The Boundary Problem"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+allowfullscreen>
+</iframe>
+</div>
+<p class="video-caption">A short film I made based on my M. Sc. thesis. It spatially maps 20 years of rampant development along the IT belt in Bengaluru.</p>
 </div>
 
 </div>
