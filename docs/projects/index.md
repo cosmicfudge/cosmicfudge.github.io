@@ -19,29 +19,27 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../assets/images/jk_sdm-cover.png)
 
-**[Sample Project](sample-project.md)**
+**[Mammal Distributions in the High Altitudes of Jammu & Kashmir](jk-sdm.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Stacked species distribution models for ten mammal species, built from 1.5-2 years of camera trap data and 22 environmental covariates. The work began as a snow leopard range assessment and expanded to the wider high-altitude mammal community.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`R` `SSDM` `Google Earth Engine` `QGIS`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](jk-sdm.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-notebook.png)
+![](../assets/images/lahaul_management_plan-cover.png)
 
-**[Sample Notebook](sample-notebook.ipynb)**
+**[Lahaul Wildlife Management Plan](lahaul-management-plan.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Produced maps towards a wildlife management plan for the Lahaul Forest Division, Himachal Pradesh, submitted to the Forest Department. My maps cover the snow leopard distribution and the proposed hydropower projects in the valley.
 
-`Python` `pandas` `Folium`
+`QGIS`  `Google Earth Engine` `R`
 
-[View Project →](sample-notebook.ipynb){ .md-button }
+[View Project →](lahaul-mgmt.md){ .md-button }
 </div>
 
 </div>
