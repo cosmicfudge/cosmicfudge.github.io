@@ -28,22 +28,39 @@ CHECKLIST FOR THIS PAGE:
 
 
 
-<div class="about-section" markdown>
-<div class="about-text" markdown>
 # About
----
-<br>
+
+<div class="about-section" markdown>
+
+<div class="about-text" markdown>
+
 I am a geospatial analyst with a keen interest in understanding the complex relationships between people, places, and the environment. In my previous work, I managed large geospatial datasets and conducted critical analyses of India's high-altitude ecosystems. I use GIS, remote sensing, Python, and R to explore environmental patterns, investigate geographical questions, and uncover stories hidden within spatial data. I am particularly drawn to understanding landscapes, river systems, terrain, and glaciers. For me, every map is an opportunity to ask questions about a place and encourage space-based thinking in people, which I believe is an essential first step in resolving any issue.
 
 </div>
 
-<div class="about-image">
-  <img src="assets/images/about.png" alt="About">
+<div style="display: inline-block; width: 35%; vertical-align: middle;">
+
+  <iframe
+      width="100%"
+      height="190"
+      src="https://www.youtube.com/embed/ip58-lPwOD8"
+      title="About Me - YouTube Video"
+      frameborder="0"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen>
+  </iframe>
+
+  <p style="text-align: center; font-size: 0.7rem; color: grey; font-style: italic; margin-top: 4px;">
+      A short film I made based on my M. Sc. thesis. It spatially maps 20 years of rampant development along the IT belt in Bengaluru.
+  </p>
+
 </div>
 
 </div>
 
 ---
+
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
 [Download CV :material-download:](assets/rajat-CV.pdf){ .md-button }
