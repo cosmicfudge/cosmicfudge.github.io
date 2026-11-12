@@ -11,7 +11,7 @@ site_name: "Bhūpaṭa"
 site_description: "Geospatial Science, Cartography and Environmental Research"
 site_author: "Rajat Rao"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
-#site_url: "https://your-username.github.io/your-repo-name"
+site_url: "https://github.com/cosmicfudge/cosmicfudge.github.io"
 
 theme:
   name: material
@@ -89,6 +89,8 @@ nav:
     - "Mammal Distributions in the High Altitudes of Jammu & Kashmir": projects/jk-sdm.md
     - "Lahaul Wildlife Management Plan": projects/lahaul-mgmt.md
     - "Urban Expansion and Habitat Quality in Bengaluru's IT belt": projects/thesis.md
+    - "River Pollution Monitoring in India": projects/river-pollution.md
+    - "Open Natural Ecosystems and Biodiversity in Bengaluru": projects/one.md
     - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md

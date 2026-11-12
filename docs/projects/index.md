@@ -54,4 +54,28 @@ MSc dissertation mapping 20 years of land-cover change across four tehsils of Be
 [View Project →](thesis.md){ .md-button }
 </div>
 
+<div class="project-card" markdown>
+![](../assets/images/river-monitoring-cover.png)
+
+**[River Pollution Monitoring in India](river-pollution.md)**
+
+Statistical analysis of 2021 CPCB water-quality data from 1,444 monitoring stations, focused on five major rivers. Yamuna had the highest mean BOD and fecal coliform, and temperature alone turned out to be a weak predictor of pollution indicators.
+
+`R` `Correlation` `Regression`
+
+[View Project →](river-pollution.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/one-cover.png)
+
+**[Open Natural Ecosystems and Biodiversity in Bengaluru](one.md)**
+
+Team analysis for an OpenCity datajam on whether "wastelands" in Bengaluru work as overlooked biodiversity habitats. ONEs held 142 species and about 65% of geocoded real estate projects fall within 500 m of one. Published in Citizen Matters.
+
+`Google Earth Engine` `QGIS` `R`
+
+[View Project →](one.md){ .md-button }
+</div>
+
 </div>
