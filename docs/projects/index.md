@@ -42,4 +42,16 @@ Produced maps towards a wildlife management plan for the Lahaul Forest Division,
 [View Project →](lahaul-mgmt.md){ .md-button }
 </div>
 
+<div class="project-card" markdown>
+![](../assets/images/thesis-cover.png)
+
+**[Urban Expansion and Habitat Quality in Bengaluru's IT Belt](thesis.md)**
+
+MSc dissertation mapping 20 years of land-cover change across four tehsils of Bengaluru's IT belt using Landsat imagery, then modelling habitat quality and rarity with InVEST. Built-up area grew from 9% to 21% and the vegetation rapidly declined and was found to be fragmented.
+
+`ArcGIS` `QGIS` `InVEST` `MOLUSCE`
+
+[View Project →](thesis.md){ .md-button }
+</div>
+
 </div>

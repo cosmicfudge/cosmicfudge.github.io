@@ -88,6 +88,7 @@ nav:
     - "All Projects": projects/index.md
     - "Mammal Distributions in the High Altitudes of Jammu & Kashmir": projects/jk-sdm.md
     - "Lahaul Wildlife Management Plan": projects/lahaul-mgmt.md
+    - "Urban Expansion and Habitat Quality in Bengaluru's IT belt": projects/thesis.md
     - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
