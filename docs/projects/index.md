@@ -90,4 +90,16 @@ Volunteer GIS mentorship for students of Vidya Niketan English Medium School, Pu
 [View Project →](unsung-heroes.md){ .md-button }
 </div>
 
+<div class="project-card" markdown>
+![](../assets/images/mol-cover.png)
+
+**[Together for the Mountains: NCF High Altitude Program Map](mol.md)**
+
+An overview map of the Nature Conservation Foundation's High Altitude Program, showing snow leopard camera-trap locations and  partner community villages across the Western Himalaya. Printed for the Mountains of Life festival at Azim Premji University.
+
+`QGIS` `Cartography` `ESA WorldCover`
+
+[View Project →](mol.md){ .md-button }
+</div>
+
 </div>

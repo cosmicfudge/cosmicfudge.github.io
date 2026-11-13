@@ -92,6 +92,7 @@ nav:
     - "River Pollution Monitoring in India": projects/river-pollution.md
     - "Open Natural Ecosystems and Biodiversity in Bengaluru": projects/one.md
     - "Unsung Heroes Among Us": projects/unsung-heroes.md
+    - "Together for the Mountains": projects/mol.md
     - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
