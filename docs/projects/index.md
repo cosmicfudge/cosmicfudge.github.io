@@ -78,4 +78,16 @@ Team analysis for an OpenCity datajam on whether "wastelands" in Bengaluru work 
 [View Project →](one.md){ .md-button }
 </div>
 
+<div class="project-card" markdown>
+![](../assets/images/pune-cover.png)
+
+**[Unsung Heroes Among Us: Mentoring students for mapping in Pune](unsung-heroes.md)**
+
+Volunteer GIS mentorship for students of Vidya Niketan English Medium School, Pune. They mapped 116 informal service workers in their neighbourhood against the SDGs and presented the work at the UN World Geospatial Information Congress in Hyderabad.
+
+`QGIS` `Google Earth Engine` `EpiCollect`
+
+[View Project →](unsung-heroes.md){ .md-button }
+</div>
+
 </div>
