@@ -102,4 +102,16 @@ An overview map of the Nature Conservation Foundation's High Altitude Program, s
 [View Project →](mol.md){ .md-button }
 </div>
 
+<div class="project-card" markdown>
+![](../assets/images/paws-2-cover.png)
+
+**[Status of Snow Leopard in Himachal Pradesh (PAWS)](paws-2.md)**
+
+State-wide snow leopard population assessment by the HP Forest Department and NCF. I curated about 4.5 lakh camera-trap images, made all the report's maps, and built the species distribution models for other mammals in the landscape.
+
+`QGIS` `R` `SSDM` `Camera traps`
+
+[View Project →](paws-2.md){ .md-button }
+</div>
+
 </div>
