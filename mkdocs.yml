@@ -94,7 +94,6 @@ nav:
     - "Unsung Heroes Among Us": projects/unsung-heroes.md
     - "Together for the Mountains": projects/mol.md
     - "Status of Snow Leopards in Himachal Pradesh": projects/paws-2.md
-    - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
     #    (or drop an .ipynb file into docs/projects/ for a Jupyter notebook project)
