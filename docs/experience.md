@@ -96,7 +96,7 @@ Master's thesis documented in a short film screened at CMS Vatavaran.
 
 ## Certifications
 
-- GATE Geomatics Engineering — All India Rank 173, 2026
+- GATE Geomatics Engineering (2026)— All India Rank 173
 - Climate Action Fellow — Terra.do, 2022
 - Basic Mountaineering Course — Grade A
 - ISO 14001:2015 (EMS) and ISO 45001:2018 (OHSMS)
